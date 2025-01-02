@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan!</h1>
 <h3 align="center">A self-taught Junior DevOps Engineer from the UK.</h3>
 
-<p align="left"> <a href="https://twitter.com/www.x.com/hasscodes" target="blank"><img src="https://img.shields.io/twitter/follow/www.x.com/hasscodes?logo=twitter&style=for-the-badge" alt="www.x.com/hasscodes" /></a> </p>
-
 - 🔭 I’m currently working on **my own portfolio to showcase my projects as a Junior DevOps Engineer.**
 
 - 🌱 I started my career self-teaching **Full-Stack Development, then completed a bootcamp with Code First Girls, and now I'm focused on growing my skills as a Junior DevOps Engineer in the defense sector.**
