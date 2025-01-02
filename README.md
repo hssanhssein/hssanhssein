@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan!</h1>
 <h3 align="center">A self-taught Junior DevOps Engineer from the UK.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hssanhssein" alt="hssanhssein" /></a> </p>
+
 - 🔭 I’m currently working on **my own portfolio to showcase my projects as a Junior DevOps Engineer.**
 
 - 🌱 I started my career self-teaching **Full-Stack Development, then completed a bootcamp with Code First Girls, and now I'm focused on growing my skills as a Junior DevOps Engineer in the defense sector.**
