@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Hassan!</h1>
 <h3 align="center">A self-taught Junior DevOps Engineer from the UK.</h3>
 
-- 🔭 I’m currently working on **my own portfolio to showcase my projects as a Junior DevOps Engineer.**
+- 🔭 I’m currently working on my own portfolio to showcase my projects as a Junior DevOps Engineer.
 
-- 🌱 I started my career learning Full-Stack Development with Code First Girls. Now, I'm focused on growing my skills in DevOps.**
+- 🌱 I started my career learning Full-Stack Development with Code First Girls. Now, I'm focused on growing my skills in DevOps.
 
 - 📫 How to reach me **hascodes@hotmail.com**
 
