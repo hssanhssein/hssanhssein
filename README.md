@@ -5,7 +5,7 @@
 
 - 🌱 I started my career learning Full-Stack Development with Code First Girls. Now, I'm focused on growing my skills in DevOps.
 
-- 📫 How to reach me **hascodes@hotmail.com**
+- 📫 How to reach me: **hascodes@hotmail.com**
 
 - ⚡ Fun fact **I enjoy anything to do with gaming!**
 
